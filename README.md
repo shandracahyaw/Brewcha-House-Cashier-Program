@@ -15,7 +15,7 @@
 Brewcha House adalah Program berbasis Java Console yang dibuat dengan implementasu konsep Object-oriented Programming
 yang saya praktikkan guna memenuhi tugas 1 Matakuliah Berpraktik Pemrograman Berbasis Desktop. Program ini mensimulasikan 
 sistem kasir sederhana pada sebuah kafe bernama Brewcha House, dimana pengguna dapat :
-1. Melihat daftar menu amakanan dan minuman
+1. Melihat daftar menu makanan dan minuman
 2. Memilih item pesanan
 3. Menghitung total harga, pajak dan grand total pembayaran
 4. Serta mencetak ringkasan transaksi (struk pembayaran)
