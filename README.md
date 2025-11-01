@@ -1,6 +1,6 @@
 # Brewcha-House-Cashier-Program
 	Tugas Praktik 1 - Matakuliah Berpraktik Pemrograman Berbasis Desktop
-	Dosen Pengampu : Elisawati, M.Kom
+	Dosen Pengampu : Nency Extise Putri, M.Kom
 # Identitas Mahasiswa
 	NIM      : 051225896
 	Nama     : Shandra Cahya Wulandari
